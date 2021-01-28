@@ -48,6 +48,7 @@ object ProductMergerJob {
     *   intilize sparksession
     *   read data from initial_data.json 
     *   and call MERGERFUNC with the data in cdc_data
+    *   save result to JSON file
     *
     */
   }
